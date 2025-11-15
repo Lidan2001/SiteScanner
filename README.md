@@ -30,7 +30,10 @@ Built using Node.js, Express, React, and Vite.
 
 - Tools: Axios, Git
 
-`App runs at:` http://localhost:5173     Backend: node server.js     Frontend: npm run dev
+`App runs at:`
+ http://localhost:5173     
+ Backend: node server.js     
+ Frontend: npm run dev
 
 
  `Usage`
